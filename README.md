@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 👋 Hi, I'm Mateusz ( aka Matt )
+- 👋 Hi, I'm Mateusz ( Matt )
 - 💻 I am a Junior Full Stack JS Dev
 
 
