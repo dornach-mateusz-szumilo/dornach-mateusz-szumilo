@@ -2,10 +2,10 @@
 
 
 - 👋 Hi, I'm Mateusz ( Matt )
-- 💻 I am a Junior Full Stack JS Dev
+- 💻 I am a Full Stack JS Dev
 
 
-You can reach me at: mateusz.szumilo@dornach.eu
+You can reach me at: mateusz.szumilo@dornach.eu or mattszumilo@gmail.com
 
 
 <!--
